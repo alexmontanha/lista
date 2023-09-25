@@ -21,7 +21,7 @@ O código é um exemplo de uma lista encadeada simples, com as funções de inse
 Clone o repositório e abra a pasta no VSCode.
 
 ```bash
-git clone
+git clone https://github.com/alexmontanha/lista.git
 ```
 
 ```rust
