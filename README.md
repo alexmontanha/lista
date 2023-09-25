@@ -34,7 +34,7 @@ cargo run
 
 ### Rodando o código no Rust Playground
 
-Acesse o [Rust Playground](https://play.rust-lang.org/) e cole o código do arquivo [main.rs]() na janela de edição.
+Acesse o [Rust Playground](https://play.rust-lang.org/) e cole o código do arquivo [main.rs](https://github.com/alexmontanha/lista/blob/master/src/main.rs) na janela de edição.
 
 ## Licença
 
